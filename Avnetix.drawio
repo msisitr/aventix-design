@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HrDyO8nvaBUC3kqXnFug-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="HrDyO8nvaBUC3kqXnFug-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="110" y="25" width="620" height="525" as="geometry" />
         </mxCell>
-        <mxCell id="lXcPuruQBqpot0zOTHIt-2" value="Employé" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="lXcPuruQBqpot0zOTHIt-2" value="Employé" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lXcPuruQBqpot0zOTHIt-3" value="&lt;div&gt;Commerçant&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="lXcPuruQBqpot0zOTHIt-3" value="&lt;div&gt;Commerçant&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-1" value="Effectuer un paiement " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -25,10 +25,10 @@
         <mxCell id="f-XQC71uX94ksuNOsDdL-4" value="Gérer les cartes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-5" value="Employeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-5" value="Employeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="275" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-6" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-6" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="403" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-7" value="Consulter le solde" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-19" value="&lt;div&gt;Service&lt;/div&gt;&lt;div&gt;Compensation&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-19" value="&lt;div&gt;Service&lt;/div&gt;&lt;div&gt;Compensation&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="770" y="70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f-XQC71uX94ksuNOsDdL-7" target="f-XQC71uX94ksuNOsDdL-21">
