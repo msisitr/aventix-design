@@ -20,7 +20,7 @@
           <mxGeometry x="290" y="443" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-3" value="S&#39;identifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="250" width="79" height="35" as="geometry" />
+          <mxGeometry x="190" y="255" width="79" height="35" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-4" value="Gérer les cartes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="310" width="120" height="40" as="geometry" />
@@ -185,6 +185,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="142" y="472" as="sourcePoint" />
             <mxPoint x="300" y="473" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.003;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-7">
@@ -194,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-53" value="Modifier le mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="505" width="125" height="30" as="geometry" />
+          <mxGeometry x="290" y="510" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.093;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -213,6 +216,9 @@
             <mxPoint x="120" y="200" as="sourcePoint" />
             <mxPoint x="310" y="110.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f-XQC71uX94ksuNOsDdL-57" value="&lt;div&gt;Aventex&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=#FFFF99;strokeWidth=1;perimeterSpacing=10;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
