@@ -20,7 +20,7 @@
           <mxGeometry x="290" y="443" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-3" value="S&#39;identifier" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="240" width="79" height="35" as="geometry" />
+          <mxGeometry x="160" y="230" width="79" height="35" as="geometry" />
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-4" value="Gérer les cartes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="302.5" y="310" width="120" height="40" as="geometry" />
