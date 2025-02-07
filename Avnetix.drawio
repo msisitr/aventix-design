@@ -247,7 +247,7 @@
         <mxCell id="f-XQC71uX94ksuNOsDdL-66" value="Superviser l&#39;application " style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="315" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-67" value="Include" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="f-XQC71uX94ksuNOsDdL-3" target="f-XQC71uX94ksuNOsDdL-65">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-67" value="Include" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="f-XQC71uX94ksuNOsDdL-3" target="f-XQC71uX94ksuNOsDdL-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="249" y="253" as="sourcePoint" />
             <mxPoint x="300" y="230" as="targetPoint" />
@@ -256,7 +256,7 @@
         <mxCell id="f-XQC71uX94ksuNOsDdL-71" value="Consulter la liste de partenaires" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="302.5" y="240" width="127.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-73" value="Include" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f-XQC71uX94ksuNOsDdL-3" target="f-XQC71uX94ksuNOsDdL-71">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-73" value="Include" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="f-XQC71uX94ksuNOsDdL-3" target="f-XQC71uX94ksuNOsDdL-71">
           <mxGeometry x="-0.1432" y="-3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="259" y="263" as="sourcePoint" />
             <mxPoint x="328" y="251" as="targetPoint" />
