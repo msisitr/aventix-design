@@ -416,10 +416,10 @@
         <mxCell id="f-XQC71uX94ksuNOsDdL-2" value="&lt;span&gt;Gérer le compte&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="216.25" y="413" width="137.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hkSApEl5P2nhrFZefOpm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" target="f-XQC71uX94ksuNOsDdL-106">
+        <mxCell id="hkSApEl5P2nhrFZefOpm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="74" as="sourcePoint" />
-            <mxPoint x="320" y="219" as="targetPoint" />
+            <mxPoint x="100" y="72" as="sourcePoint" />
+            <mxPoint x="205.6199999999999" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-106" value="&lt;div&gt;&lt;span&gt;Recevoir un&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;paiement &lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
@@ -453,10 +453,10 @@
             <mxPoint x="9" y="-32" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hkSApEl5P2nhrFZefOpm-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.055;entryY=0.246;entryDx=0;entryDy=0;fontStyle=1;entryPerimeter=0;" edge="1" parent="1" target="f-XQC71uX94ksuNOsDdL-53">
+        <mxCell id="hkSApEl5P2nhrFZefOpm-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.055;entryY=0.246;entryDx=0;entryDy=0;fontStyle=1;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="70" as="sourcePoint" />
-            <mxPoint x="246" y="282" as="targetPoint" />
+            <mxPoint x="102" y="80" as="sourcePoint" />
+            <mxPoint x="228.5999999999999" y="323.61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
