@@ -7,20 +7,20 @@
         <mxCell id="Carte" value="cardservice" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="100" y="100" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-1" value="gerer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Carte" vertex="1">
-          <mxGeometry x="30" y="23" width="50" height="30" as="geometry" />
+        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-1" value="gerer transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Carte" vertex="1">
+          <mxGeometry y="23" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Compte" value="card" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="300" y="100" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-16" value="effectue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Compte" vertex="1">
-          <mxGeometry x="17" y="23" width="70" height="30" as="geometry" />
+        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-16" value="effectue&amp;nbsp;transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Compte" vertex="1">
+          <mxGeometry x="-13" y="23" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Employeur" value="transaction" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="500" y="100" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-27" value="valider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Employeur" vertex="1">
-          <mxGeometry x="15" y="30" width="60" height="30" as="geometry" />
+        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-27" value="valider&amp;nbsp;transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Employeur" vertex="1">
+          <mxGeometry x="-15" y="30" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Administrateur" value="Admin" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="490" y="440" width="140" height="100" as="geometry" />
@@ -36,17 +36,14 @@
         <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-19" value="user" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="290" y="290" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-28" value="attribue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-ph2WIPcD-b-Q4lVjL1Z-19" vertex="1">
-          <mxGeometry x="15" y="30" width="60" height="30" as="geometry" />
+        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-28" value="Id attribue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-ph2WIPcD-b-Q4lVjL1Z-19" vertex="1">
+          <mxGeometry x="5" y="30" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="87VrUscL3hebvAliGQNC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ph2WIPcD-b-Q4lVjL1Z-20" target="-ph2WIPcD-b-Q4lVjL1Z-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-20" value="employer" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="290" y="440" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-29" value="supervise" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="-ph2WIPcD-b-Q4lVjL1Z-20" vertex="1">
-          <mxGeometry x="10" y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ph2WIPcD-b-Q4lVjL1Z-22" value="ID Provider" style="swimlane" parent="1" vertex="1">
           <mxGeometry x="510" y="290" width="140" height="100" as="geometry" />
