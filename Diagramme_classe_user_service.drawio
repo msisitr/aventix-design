@@ -131,12 +131,12 @@
           <mxGeometry y="40" width="250" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_98ZC1JWBD3r_d2lOFw9-38" value="&lt;&lt;interface&gt;&gt;&#xa;KeycloakService" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="870" y="500" width="390" height="224" as="geometry">
+          <mxGeometry x="870" y="500" width="390" height="170" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_98ZC1JWBD3r_d2lOFw9-39" value="+createUser(keycloakUserDto : KeycloakUerDto)&#xa;+updateUser(keycloakUserDto : KeycloakUerDto)&#xa;+getAllUsers()&#xa;+updateUser(keycloakId: String,keycloakUserDto : KeycloakUerDto)&#xa;+deleteUser(id : Long)&#xa;+createOrganization(orgName: String)&#xa;+createRole(roleName : String)&#xa;+assignUserToOrganization(keycloakId : String,keycloakOrgId : String)&#xa;+assignRoleToUser(keycloakId : String, roleName : String)&#xa;+login(keycloakUserDto : KeycloakUerDto)&#xa;+logout(keycloakUserDto : KeycloakUerDto)&#xa;+resetPassword(keycloakUserDto : KeycloakUerDto)&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_98ZC1JWBD3r_d2lOFw9-38" vertex="1">
-          <mxGeometry y="40" width="390" height="184" as="geometry" />
+        <mxCell id="_98ZC1JWBD3r_d2lOFw9-39" value="+createUser(keycloakUserDto : KeycloakUerDto)&#xa;+updateUser(keycloakUserDto : KeycloakUerDto)&#xa;+updateUser(keycloakId: String,keycloakUserDto : KeycloakUerDto)&#xa;+deleteUser(id : Long)&#xa;+createOrganization(orgName: String)&#xa;+createRole(roleName : String)&#xa;+assignUserToOrganization(keycloakId : String,keycloakOrgId : String)&#xa;+assignRoleToUser(keycloakId : String, roleName : String)&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_98ZC1JWBD3r_d2lOFw9-38" vertex="1">
+          <mxGeometry y="40" width="390" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_98ZC1JWBD3r_d2lOFw9-40" value="KeycloakServiceImpl" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1000" y="360" width="140" height="70" as="geometry">
@@ -382,10 +382,10 @@
             <mxPoint x="260" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvd27ScPWI3uXU6qkX9f-48" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.998;exitY=0.14;exitDx=0;exitDy=0;entryX=0.533;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_98ZC1JWBD3r_d2lOFw9-24" target="_98ZC1JWBD3r_d2lOFw9-39">
+        <mxCell id="yvd27ScPWI3uXU6qkX9f-48" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.998;exitY=0.14;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.532;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_98ZC1JWBD3r_d2lOFw9-24" target="_98ZC1JWBD3r_d2lOFw9-39">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="490" y="350" as="sourcePoint" />
-            <mxPoint x="650" y="350" as="targetPoint" />
+            <mxPoint x="1080" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="380" />
               <mxPoint x="440" y="600" />
@@ -471,10 +471,10 @@
             <mxPoint x="310" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvd27ScPWI3uXU6qkX9f-53" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.646;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yvd27ScPWI3uXU6qkX9f-0" target="_98ZC1JWBD3r_d2lOFw9-39">
+        <mxCell id="yvd27ScPWI3uXU6qkX9f-53" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.641;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yvd27ScPWI3uXU6qkX9f-0" target="_98ZC1JWBD3r_d2lOFw9-39">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-200" y="660" as="sourcePoint" />
-            <mxPoint x="1030.4300000000003" y="837.2779999999998" as="targetPoint" />
+            <mxPoint x="1122" y="700" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-280" y="960" />
               <mxPoint x="140" y="957.8299999999999" />
