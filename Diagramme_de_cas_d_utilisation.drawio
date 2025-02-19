@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.14">
   <diagram name="Page-1" id="EEWq-LYywZsjr-8HUKzn">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,16 +169,10 @@
         <mxCell id="f-XQC71uX94ksuNOsDdL-53" value="&lt;div&gt;Modifier le mot&lt;/div&gt;&lt;div&gt;&amp;nbsp;de passe&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="220" y="315" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.093;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-1" edge="1">
+        <mxCell id="f-XQC71uX94ksuNOsDdL-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.118;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="122" y="96" as="sourcePoint" />
             <mxPoint x="300" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;entryX=0.09;entryY=0.735;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="195.5" as="sourcePoint" />
-            <mxPoint x="300" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;exitX=0.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HrDyO8nvaBUC3kqXnFug-1" target="f-XQC71uX94ksuNOsDdL-7" edge="1">
@@ -415,12 +409,6 @@
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-2" value="&lt;span&gt;Gérer le compte&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="216.25" y="413" width="137.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="hkSApEl5P2nhrFZefOpm-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="72" as="sourcePoint" />
-            <mxPoint x="205.6199999999999" y="178" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-106" value="&lt;div&gt;&lt;span&gt;Recevoir un&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;paiement &lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="205.62" y="160" width="140" height="40" as="geometry" />
