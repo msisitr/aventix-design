@@ -280,10 +280,20 @@
             <mxPoint x="760" y="134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f-XQC71uX94ksuNOsDdL-91" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="f-XQC71uX94ksuNOsDdL-106" edge="1">
+        <mxCell id="50AHJI-DFvUtAgwRJbp--1" value="Vérifier et Valider" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f-XQC71uX94ksuNOsDdL-90">
+          <mxGeometry x="0.1538" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f-XQC71uX94ksuNOsDdL-91" value="" style="endArrow=classic;html=1;rounded=0;fontStyle=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="190" as="sourcePoint" />
-            <mxPoint x="760" y="170" as="targetPoint" />
+            <mxPoint x="370" y="172" as="sourcePoint" />
+            <mxPoint x="760" y="167" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50AHJI-DFvUtAgwRJbp--2" value="Vérifier et Valider" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f-XQC71uX94ksuNOsDdL-91">
+          <mxGeometry x="0.1232" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-XQC71uX94ksuNOsDdL-95" value="Aventix" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#F9F7ED;strokeColor=#36393d;fontStyle=1;strokeWidth=1;gradientColor=default;" parent="1" vertex="1">
