@@ -73,11 +73,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WurOz906_WQ2NloFtxnk-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WurOz906_WQ2NloFtxnk-12">
-          <mxGeometry x="-0.5797" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-13" value="Employé " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontStyle=1;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
           <mxGeometry x="192" y="6" width="30" height="60" as="geometry" />
         </mxCell>
