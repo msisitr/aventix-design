@@ -11,50 +11,50 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7v53NaT3A0fcUe7yKv---7" value="Vérifie le QR Code" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
-          <mxGeometry x="-0.1398" width="80" relative="1" as="geometry">
-            <mxPoint x="352" y="148" as="sourcePoint" />
-            <mxPoint x="491.5" y="148" as="targetPoint" />
+        <mxCell id="7v53NaT3A0fcUe7yKv---7" value="&lt;div&gt;Déchiffre et envoye&lt;/div&gt;&lt;div&gt;&amp;nbsp;les données du QR Code&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
+          <mxGeometry x="-0.0251" width="80" relative="1" as="geometry">
+            <mxPoint x="352" y="155" as="sourcePoint" />
+            <mxPoint x="491.5" y="155" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---8" value="Affiche demande de validation" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="491.5" y="177" as="sourcePoint" />
-            <mxPoint x="201.5" y="177" as="targetPoint" />
+            <mxPoint x="491.5" y="191" as="sourcePoint" />
+            <mxPoint x="201.5" y="191" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---9" value="Valide le paiement" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry x="-0.1398" width="80" relative="1" as="geometry">
-            <mxPoint x="202.5" y="212" as="sourcePoint" />
-            <mxPoint x="491.5" y="212" as="targetPoint" />
+            <mxPoint x="202.5" y="224" as="sourcePoint" />
+            <mxPoint x="491.5" y="224" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---11" value="Confirme le paiement" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="492" y="248" as="sourcePoint" />
-            <mxPoint x="352" y="248" as="targetPoint" />
+            <mxPoint x="492" y="261" as="sourcePoint" />
+            <mxPoint x="352" y="261" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---12" value="Notifie le paiement" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry x="-0.1398" width="80" relative="1" as="geometry">
-            <mxPoint x="492" y="268" as="sourcePoint" />
-            <mxPoint x="631.5" y="268" as="targetPoint" />
+            <mxPoint x="492" y="282" as="sourcePoint" />
+            <mxPoint x="631.5" y="282" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---13" value="Notifie le paiement" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="631.5" y="293" as="sourcePoint" />
-            <mxPoint x="202" y="293" as="targetPoint" />
+            <mxPoint x="631.5" y="304" as="sourcePoint" />
+            <mxPoint x="202" y="304" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---14" value="alt [solde insuffisant]" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;fontStyle=1;fontColor=light-dark(#8000ff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="114" y="310" width="400" height="80" as="geometry" />
+          <mxGeometry x="114" y="337" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---15" value="Notifie échec du paiement" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -64,12 +64,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---17" value="alt [QR Code invalide]" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;fontStyle=1;fontColor=light-dark(#8000ff, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="252" y="418" width="300" height="80" as="geometry" />
+          <mxGeometry x="252" y="441" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7v53NaT3A0fcUe7yKv---18" value="Signale QR Code invalide" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="492" y="468" as="sourcePoint" />
-            <mxPoint x="352" y="468" as="targetPoint" />
+            <mxPoint x="492" y="471" as="sourcePoint" />
+            <mxPoint x="352" y="471" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
