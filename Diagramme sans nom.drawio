@@ -67,23 +67,28 @@
           <mxGeometry x="252" y="441" width="438" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-12" value="Signale QR Code invalide" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontStyle=1" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="630" y="480" as="sourcePoint" />
+          <mxGeometry x="0.0145" width="80" relative="1" as="geometry">
+            <mxPoint x="490" y="480" as="sourcePoint" />
             <mxPoint x="352" y="480" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WurOz906_WQ2NloFtxnk-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WurOz906_WQ2NloFtxnk-12">
+          <mxGeometry x="-0.5797" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-13" value="Employé " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontStyle=1;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="192" y="12" width="30" height="60" as="geometry" />
+          <mxGeometry x="192" y="6" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-14" value="Commerçant" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontStyle=1;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="332" y="11" width="30" height="60" as="geometry" />
+          <mxGeometry x="332" y="7" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-15" value="&lt;div&gt;Système de&lt;/div&gt;&lt;div&gt;&amp;nbsp;paiement&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=3;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
           <mxGeometry x="610" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-16" value="&lt;div&gt;Service&amp;nbsp;&lt;/div&gt;&lt;div&gt;Authentification&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontStyle=1;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="480" y="11" width="30" height="60" as="geometry" />
+          <mxGeometry x="480" y="4" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WurOz906_WQ2NloFtxnk-22" value="&lt;div&gt;Service de&amp;nbsp;&lt;/div&gt;&lt;div&gt;notification&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;fontStyle=1;fontColor=light-dark(#0000ff, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="750" y="11" width="30" height="60" as="geometry" />
+          <mxGeometry x="750" y="4" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
